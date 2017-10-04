@@ -1,0 +1,6 @@
+
+1. To launch the application please run the ApplicationStartUp.java class as a normal Java Application.
+2. The program accepts 2 arguments which is input directory as well as output directory.
+
+The program reads all the text files from the input directory and converts the first letter of each word of each file into
+upper case and saves it back into the separate file in the output directory provided.
